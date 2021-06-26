@@ -1,0 +1,22 @@
+{
+  "name": "object_sip",
+  "version": "1.0.0",
+  "description": "project to use jsSip to connect to asterisk server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ObjectOriented-Dev/Object_SIP.git"
+  },
+  "keywords": [
+    "voip"
+  ],
+  "author": "Object Oriented Development LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ObjectOriented-Dev/Object_SIP/issues"
+  },
+  "homepage": "https://github.com/ObjectOriented-Dev/Object_SIP#readme"
+}
